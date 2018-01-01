@@ -7,5 +7,5 @@
     5. 함수2
     6. 클래스
     7. Regular Expression
-    8. Numpy, Pandas
+    8. Numpy, Pandas
     9. Advanced Python
