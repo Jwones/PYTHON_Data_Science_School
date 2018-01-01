@@ -1,4 +1,5 @@
 # Data Science school
+![](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 ---
 * Fast Campus Data Science School python 강의 자료
   - CS 개론 및 환경 설정
