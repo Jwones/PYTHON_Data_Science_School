@@ -4,7 +4,8 @@
     - 변수, 컨테이너 타입
     - 조건문, 반복문
     - 함수
-    - 함수2
+    
+    - 함수2
     - 클래스
     - Regular Expression
     - Numpy, Pandas
